@@ -68,7 +68,7 @@
   width: 100%;
   top: 0px;
   left: 0px;
-  background: #000;
+  background: #ff00dc;
   opacity: 0.9; }
   .main-navigation .main-navigation__ul {
     position: absolute;
@@ -137,7 +137,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #000;
+    background-color: #ff00dc;
     opacity: 0.9; }
   .fh5co-top-banner .site-container {
     position: relative;
@@ -262,7 +262,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: #000;
+    background-color: #ff00dc;
     opacity: 0.7; }
   @media (max-width: 992px) {
     .about-me-bckg {
@@ -432,7 +432,7 @@
       left: 0;
       width: 100%;
       height: 100%;
-      background-color: #000;
+      background-color: #ff00dc;
       transition: 0.3s ease; }
       .single-book .single-book__img .single-book_download img {
         position: absolute;
